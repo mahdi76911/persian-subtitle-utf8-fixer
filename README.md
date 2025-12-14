@@ -80,7 +80,7 @@ git clone https://github.com/mahdi76911/persian-subtitle-utf8-fixer.git
 
 Below is a screenshot of the Persian Subtitle UTF-8 Fixer in action:
 
-![App Screenshot](screenshots\app-screenshot.png)
+![App Screenshot](screenshots/app-screenshot.png)
 
 > Drag and drop subtitle files onto the window to batch fix their encoding.
 
